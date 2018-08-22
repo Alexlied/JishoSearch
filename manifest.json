@@ -3,8 +3,8 @@
 	"version": "1.0",
 	"description": "Search for English-Japanese translations on Jisho.org",
 	"icons": {
-      "16": "icon16.png",
-      "48": "icon48.png"
+      "16": "icon/icon16.png",
+      "48": "icon/icon48.png"
     },
 	 "background": {
       "scripts": ["background.js"]
